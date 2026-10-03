@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-composer-page.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-composer-page) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-composer-page).
 
-**0** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-composer-page/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^1.2`
+**3** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-composer-page/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-09-08 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-composer-page/tree/archive/v1.0.0) |
+| `1.1.0` | 2023-08-23 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-composer-page/tree/archive/v1.1.0) |
+| `1.1.1` | 2023-10-02 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-composer-page/tree/archive/v1.1.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-composer-page.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-composer-page.json)
 
